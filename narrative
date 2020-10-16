@@ -1,0 +1,18 @@
+This artifact is designed to function as a stock market securities information reporting service and utilizes a RESTful API web-based protocol to retrieve specified company data 
+in conjunction with a MongoDB database of company stocks information.  
+
+This artifact was selected to showcase my abilities and skills in developing algorithms that search and retrieve data according to customer’s requests, using advanced programming 
+techniques in multiple languages that interface within a full stack environment, and using application programming interfaces (APIs) to create a reusable software service.  The 
+artifact was previously designed to retrieve a list of companies that that have the highest number of totals shares outstanding and then group the companies by their respective 
+industry.  It was later decided that this artifact could be significantly improved if it could provide potential investors with one of the most important values in respect to 
+stocks, which is market capitalization.  The function will be significantly more efficient as it will only need to search for one specified company name and then determine the 
+company’s respective market capitalization, or market cap.
+
+The design of the new function of determining a company’s market cap value significantly improves its efficiency and provides the user with a more valuable result. Potential 
+investors can simply input the company name into the program, and it will return the company’s market cap value which is a great indicator of potential risk that is involved 
+while investing in company stocks.  
+
+Modifying this artifact was another example of returning to an old project after a period of time and having fresh ideas that can improve its functionality and efficiency.  These 
+moments in software development teach us that innovation is a constant process and extremely relevant in computer science.  During the process of modifying this artifact I was
+also able to relate the similarities between continuously learning new skills as a software engineer, and continuously improving and innovating older technology that we have 
+developed. 
